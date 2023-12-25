@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public class KeyHelper {
 
-    final private static String defaultPrefix = "app";
+    private static final String defaultPrefix = "app";
 
     private static String prefix = null;
 
